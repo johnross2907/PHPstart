@@ -1,7 +1,7 @@
 <html>
     <body>
         <?php
-            echo $_POST["name"],$_POST["password"],"<br>";
+            echo $_POST["name"],"  ",$_POST["password"],"<br>";
             ?>
     </body>
 </html>
